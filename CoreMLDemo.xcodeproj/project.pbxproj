@@ -53,7 +53,7 @@
 		2C05A32C25665377006461D1 /* banana.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = banana.png; sourceTree = "<group>"; };
 		2C82731C257B5FEF009B0824 /* VisionBasicViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = VisionBasicViewController.swift; sourceTree = "<group>"; };
 		2C82731D257B5FEF009B0824 /* VisionBasicViewController.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = VisionBasicViewController.xib; sourceTree = "<group>"; };
-		2C827330257B9ECB009B0824 /* MyPlayground.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; name = MyPlayground.playground; path = ../../Desktop/MyPlayground.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		2C827334257BB136009B0824 /* MyPlayground.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; name = MyPlayground.playground; path = CoreMLDemo/MyPlayground.playground; sourceTree = "<group>"; };
 		2CEED4102566315000295DC1 /* CoreMLDemo.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = CoreMLDemo.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		2CEED4132566315000295DC1 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		2CEED4152566315000295DC1 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -112,7 +112,7 @@
 		2CEED4072566315000295DC1 = {
 			isa = PBXGroup;
 			children = (
-				2C827330257B9ECB009B0824 /* MyPlayground.playground */,
+				2C827334257BB136009B0824 /* MyPlayground.playground */,
 				2CEED4122566315000295DC1 /* CoreMLDemo */,
 				2CEED4292566315200295DC1 /* CoreMLDemoTests */,
 				2CEED4342566315200295DC1 /* CoreMLDemoUITests */,
