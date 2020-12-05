@@ -16,9 +16,13 @@ class ViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view.
-        vcs = [ClassifyingImages()]
     }
-
+    
+    override func viewDidAppear(_ animated: Bool) {
+        super.viewDidAppear(animated)
+        vcs = [VisionBasicViewController(), ClassifyingImages()]
+        tableView .reloadData()
+    }
 }
 
 extension ViewController: UITableViewDelegate {

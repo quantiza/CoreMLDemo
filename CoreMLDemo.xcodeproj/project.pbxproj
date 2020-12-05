@@ -488,6 +488,7 @@
 				DEVELOPMENT_ASSET_PATHS = CoreMLDemo/images;
 				DEVELOPMENT_TEAM = V589294N7V;
 				INFOPLIST_FILE = CoreMLDemo/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 13.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -508,6 +509,7 @@
 				DEVELOPMENT_ASSET_PATHS = CoreMLDemo/images;
 				DEVELOPMENT_TEAM = V589294N7V;
 				INFOPLIST_FILE = CoreMLDemo/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 13.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
