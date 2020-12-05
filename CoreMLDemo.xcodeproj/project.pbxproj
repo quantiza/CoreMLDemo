@@ -13,6 +13,8 @@
 		2C05A31D25664A94006461D1 /* cat.webp in Resources */ = {isa = PBXBuildFile; fileRef = 2C05A31925664A94006461D1 /* cat.webp */; };
 		2C05A32825665198006461D1 /* MobileNetV2.mlmodel in Sources */ = {isa = PBXBuildFile; fileRef = 2C05A32725665198006461D1 /* MobileNetV2.mlmodel */; };
 		2C05A32D25665377006461D1 /* banana.png in Resources */ = {isa = PBXBuildFile; fileRef = 2C05A32C25665377006461D1 /* banana.png */; };
+		2C82731E257B5FEF009B0824 /* VisionBasicViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2C82731C257B5FEF009B0824 /* VisionBasicViewController.swift */; };
+		2C82731F257B5FEF009B0824 /* VisionBasicViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 2C82731D257B5FEF009B0824 /* VisionBasicViewController.xib */; };
 		2CEED4142566315000295DC1 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2CEED4132566315000295DC1 /* AppDelegate.swift */; };
 		2CEED4162566315000295DC1 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2CEED4152566315000295DC1 /* SceneDelegate.swift */; };
 		2CEED4182566315000295DC1 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2CEED4172566315000295DC1 /* ViewController.swift */; };
@@ -49,6 +51,8 @@
 		2C05A31925664A94006461D1 /* cat.webp */ = {isa = PBXFileReference; lastKnownFileType = file; path = cat.webp; sourceTree = "<group>"; };
 		2C05A32725665198006461D1 /* MobileNetV2.mlmodel */ = {isa = PBXFileReference; lastKnownFileType = file.mlmodel; path = MobileNetV2.mlmodel; sourceTree = "<group>"; };
 		2C05A32C25665377006461D1 /* banana.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = banana.png; sourceTree = "<group>"; };
+		2C82731C257B5FEF009B0824 /* VisionBasicViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = VisionBasicViewController.swift; sourceTree = "<group>"; };
+		2C82731D257B5FEF009B0824 /* VisionBasicViewController.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = VisionBasicViewController.xib; sourceTree = "<group>"; };
 		2CEED4102566315000295DC1 /* CoreMLDemo.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = CoreMLDemo.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		2CEED4132566315000295DC1 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		2CEED4152566315000295DC1 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -138,6 +142,8 @@
 				2CEED4212566315200295DC1 /* Info.plist */,
 				2CEED446256633CC00295DC1 /* ClassifyingImages.swift */,
 				2CEED447256633CC00295DC1 /* ClassifyingImages.xib */,
+				2C82731C257B5FEF009B0824 /* VisionBasicViewController.swift */,
+				2C82731D257B5FEF009B0824 /* VisionBasicViewController.xib */,
 			);
 			path = CoreMLDemo;
 			sourceTree = "<group>";
@@ -268,6 +274,7 @@
 				2CEED41D2566315200295DC1 /* Assets.xcassets in Resources */,
 				2C05A31C25664A94006461D1 /* apple.jpg in Resources */,
 				2C05A31D25664A94006461D1 /* cat.webp in Resources */,
+				2C82731F257B5FEF009B0824 /* VisionBasicViewController.xib in Resources */,
 				2CEED41B2566315000295DC1 /* Main.storyboard in Resources */,
 				2C05A31A25664A94006461D1 /* puppy.webp in Resources */,
 				2C05A32D25665377006461D1 /* banana.png in Resources */,
@@ -299,6 +306,7 @@
 				2CEED4182566315000295DC1 /* ViewController.swift in Sources */,
 				2CEED4142566315000295DC1 /* AppDelegate.swift in Sources */,
 				2CEED4162566315000295DC1 /* SceneDelegate.swift in Sources */,
+				2C82731E257B5FEF009B0824 /* VisionBasicViewController.swift in Sources */,
 				2C05A32825665198006461D1 /* MobileNetV2.mlmodel in Sources */,
 				2CEED448256633CC00295DC1 /* ClassifyingImages.swift in Sources */,
 			);
